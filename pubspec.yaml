@@ -1,7 +1,8 @@
 name: is_even_new
-description: "A new Flutter package project."
+description: "About
+This is a flutter package which tells you if a number is even or not by the help of bit masking."
 version: 0.0.1
-homepage:
+homepage: https://github.com/shubhang-d/is_even_new
 
 environment:
   sdk: ^3.6.1

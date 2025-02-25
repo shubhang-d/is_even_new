@@ -1,7 +1,7 @@
-String isEvenNew(int a) {
+bool isEvenNew(int a) {
   if(a & 1 == 0){
-    return "Yes";
+    return true;
   }else{
-    return "No";
+    return false;
   }
 }

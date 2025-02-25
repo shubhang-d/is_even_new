@@ -14,18 +14,16 @@ A lightweight, efficient Dart package that provides a simple utility function to
 
 Add `is_even_new` to your `pubspec.yaml` file:
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```yaml
 dependencies:
-  is_even_new: ^1.0.0
+  is_even_new: ^0.0.1
 ```
 
-## Additional informationp
+## Usage
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+
+```dart
+// Works with numeric strings
+print(isEven(42));  // true
+print(isEven(43));  // false
+```

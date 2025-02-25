@@ -1,1 +1,4 @@
-.idea/
+.idea/libraries/Dart_SDK.xml
+.idea/modules.xml
+.idea/workspace.xml
+is_even_new.iml
